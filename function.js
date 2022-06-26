@@ -45,10 +45,10 @@ const app = {
             image: "https://data.chiasenhac.com/data/cover/141/140295.jpg"
         },
         {
-            name: "No Sleep",
+            name: "High On Life",
             singer: "Martin Garrix",
-            path: "https://c1-ex-swe.nixcdn.com/NhacCuaTui994/NoSleepDubVisionRemix-MartinGarrixBonn-6200422.mp3?st=U867Y4-RPVwTASv6SOOH7Q&e=1643454405&t=1643368003731",
-            image: "https://data.chiasenhac.com/data/cover/148/147903.jpg"
+            path: "https://aredir.nixcdn.com/Sony_Audio52/HighOnLife-MartinGarrixBonn-5775271.mp3?st=4OxCEhYiHghfYKsv5JNUCA&e=1645024374&t=1644937975109",
+            image: "https://avatar-ex-swe.nixcdn.com/playlist/2018/12/04/2/4/9/1/1543910165629_500.jpg"
         },
         {
             name: "Bước Qua Mùa Cô Đơn",
