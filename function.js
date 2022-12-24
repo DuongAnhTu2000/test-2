@@ -128,7 +128,7 @@ const app = {
             localStorage.setItem(PlAYER_STORAGE_KEY, JSON.stringify(this.config));
         },
 
-
+    .
     handleEvents () {
         const _this = this
         const cdWidth = cd.offsetWidth
