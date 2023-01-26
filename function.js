@@ -18,7 +18,7 @@ const randomBtn = $('.btn-random')
 const repeatBtn = $('.btn-repeat')
 const volumeRange = $('#controls_lever_range')
 const muteBtn = $('.btn-mute')
-
+.
 const app = {
     currentIndex: 0,
     isPlaying: false,
